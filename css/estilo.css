@@ -10,7 +10,7 @@
   }
 
   body {
-      background: url(http://parisotto.com.br/bg1.jpg);
+      background: url(../img/bg1.jpg);
       background-size: cover;
   }
 
@@ -38,7 +38,7 @@
       position: absolute;
       top: 0;
       left: 0;
-      background: url('../bp.png') no-repeat center center;
+      background: url('../img/bp.png') no-repeat center center;
       background-size: auto 100%;
   }
 
