@@ -22,13 +22,13 @@ body {
     perspective: 800px;
 }
 
-  .card {
+.card {
       width: 300px;
       height: 300px;
       position: relative;
       animation: flip 5s alternate infinite ease-in-out;
       transform-style: preserve-3d;
-  }
+}
 
   .frente,
   .verso {
