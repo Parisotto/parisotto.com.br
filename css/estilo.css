@@ -40,10 +40,10 @@ body {
     background-size: auto 100%;
 }
 
-  .frente {
-      z-index: 1;
-      backface-visibility: hidden;
-  }
+.frente {
+    z-index: 1;
+    backface-visibility: hidden;
+}
 
   .verso {
       transform: translateX(-180deg);
