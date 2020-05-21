@@ -9,9 +9,9 @@ html, body {
 }
 
 body {
-      background: url(../img/bg1.jpg);
-      background-size: cover;
-  }
+    background: url(../img/bg1.jpg);
+    background-size: cover;
+}
 
   .cena {
       width: 100%;
