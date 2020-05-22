@@ -78,6 +78,6 @@ a {
     color: white;
 }
 
-  a:hover {
-      color: yellow;
-  }
+a:hover {
+    color: yellow;
+}
