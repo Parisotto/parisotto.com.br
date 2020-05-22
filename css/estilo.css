@@ -45,9 +45,9 @@ body {
     backface-visibility: hidden;
 }
 
-  .verso {
-      transform: translateX(-180deg);
-  }
+.verso {
+    transform: translateX(-180deg);
+}
 
   @keyframes flip {
       0% {
