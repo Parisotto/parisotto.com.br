@@ -1,4 +1,4 @@
-configuração
+setup:
 init:
 post:
 config:
